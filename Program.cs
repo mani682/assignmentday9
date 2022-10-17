@@ -4,8 +4,9 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to my addressbook program");
-            uc1_addressbook.PrintPerson();
+            //Console.WriteLine("Welcome to my addressbook program");
+            //uc1_addressbook.PrintPerson();
+            uc2_addressbook.Display();
             
         }
     }
