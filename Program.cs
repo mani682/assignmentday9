@@ -6,7 +6,8 @@
         {
             //Console.WriteLine("Welcome to my addressbook program");
             //uc1_addressbook.PrintPerson();
-            uc2_addressbook.Display();
+            //uc2_addressbook.Display();
+            uc3_addressbook.EditContact();
             
         }
     }
